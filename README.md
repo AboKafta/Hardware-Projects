@@ -53,12 +53,13 @@ AutoCAD File:
 <img width="959" height="461" alt="image" src="https://github.com/user-attachments/assets/56804bee-2942-4a24-bbb5-6557b84d3444" />
 
 Final Circuitry and laser cut hole mistake for buttons and LCD:
-<img width="668" height="892" alt="image (5)" src="https://github.com/user-attachments/assets/14aedcf6-d0a1-4a77-986c-42b4437936e0" />
-<img width="481" height="641" alt="image (4)" src="https://github.com/user-attachments/assets/cff5a1c9-c0a3-4535-90a8-fe7a42dc5afd" />
+<img width="762" height="572" alt="image (1)" src="https://github.com/user-attachments/assets/e7d65d51-ab58-4ac6-950a-e8f3cd2e01cd" />
+
 
 Prototype:
 <img width="727" height="970" alt="image (3)" src="https://github.com/user-attachments/assets/a5098598-6a27-47bd-bba5-ed2381c2466f" />
 <img width="470" height="627" alt="image (2)" src="https://github.com/user-attachments/assets/855c07c0-2b04-4a70-8a7a-f564e52460c8" />
 
 End Result:
-<img width="762" height="572" alt="image (1)" src="https://github.com/user-attachments/assets/e7d65d51-ab58-4ac6-950a-e8f3cd2e01cd" />
+<img width="668" height="892" alt="image (5)" src="https://github.com/user-attachments/assets/14aedcf6-d0a1-4a77-986c-42b4437936e0" />
+<img width="481" height="641" alt="image (4)" src="https://github.com/user-attachments/assets/cff5a1c9-c0a3-4535-90a8-fe7a42dc5afd" />
