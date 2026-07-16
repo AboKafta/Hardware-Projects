@@ -50,14 +50,19 @@ I would like to greatly appreciate Arabella for all her help. I would like to al
 **Appendix:**
 
 Final Circuitry and laser cut hole mistake for buttons and LCD:
+
 <img width="470" height="627" alt="image (7)" src="https://github.com/user-attachments/assets/b72e0d1e-e604-4704-96c6-13afdcc148df" />
+
 <img width="762" height="572" alt="image (6)" src="https://github.com/user-attachments/assets/0c4f1e1f-ccd8-4f52-ba5b-f7b1b8b44a03" />
 
 Prototype:
+
 <img width="727" height="970" alt="image (8)" src="https://github.com/user-attachments/assets/3eb0a14d-bdb9-4751-844e-ec5a30279f5a" />
+
 <img width="481" height="641" alt="image (9)" src="https://github.com/user-attachments/assets/00a4052b-3c38-45fe-954a-5402f30da253" />
 
 End Result:
+
 <img width="668" height="892" alt="image (10)" src="https://github.com/user-attachments/assets/aa1e3a12-0e39-4174-9962-a911a52f56c7" />
 
 
