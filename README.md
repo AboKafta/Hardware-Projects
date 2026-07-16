@@ -49,17 +49,15 @@ I would like to greatly appreciate Arabella for all her help. I would like to al
 
 **Appendix:**
 
-AutoCAD File:
-<img width="959" height="461" alt="image" src="https://github.com/user-attachments/assets/56804bee-2942-4a24-bbb5-6557b84d3444" />
-
 Final Circuitry and laser cut hole mistake for buttons and LCD:
-<img width="762" height="572" alt="image (1)" src="https://github.com/user-attachments/assets/e7d65d51-ab58-4ac6-950a-e8f3cd2e01cd" />
-
+<img width="470" height="627" alt="image (7)" src="https://github.com/user-attachments/assets/b72e0d1e-e604-4704-96c6-13afdcc148df" />
+<img width="762" height="572" alt="image (6)" src="https://github.com/user-attachments/assets/0c4f1e1f-ccd8-4f52-ba5b-f7b1b8b44a03" />
 
 Prototype:
-<img width="727" height="970" alt="image (3)" src="https://github.com/user-attachments/assets/a5098598-6a27-47bd-bba5-ed2381c2466f" />
-<img width="470" height="627" alt="image (2)" src="https://github.com/user-attachments/assets/855c07c0-2b04-4a70-8a7a-f564e52460c8" />
+<img width="727" height="970" alt="image (8)" src="https://github.com/user-attachments/assets/3eb0a14d-bdb9-4751-844e-ec5a30279f5a" />
+<img width="481" height="641" alt="image (9)" src="https://github.com/user-attachments/assets/00a4052b-3c38-45fe-954a-5402f30da253" />
 
 End Result:
-<img width="668" height="892" alt="image (5)" src="https://github.com/user-attachments/assets/14aedcf6-d0a1-4a77-986c-42b4437936e0" />
-<img width="481" height="641" alt="image (4)" src="https://github.com/user-attachments/assets/cff5a1c9-c0a3-4535-90a8-fe7a42dc5afd" />
+<img width="668" height="892" alt="image (10)" src="https://github.com/user-attachments/assets/aa1e3a12-0e39-4174-9962-a911a52f56c7" />
+
+
