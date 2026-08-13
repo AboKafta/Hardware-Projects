@@ -19,3 +19,7 @@ There weren’t any issues that came up while placing and routing components. Th
 <img width="933" height="703" alt="image" src="https://github.com/user-attachments/assets/93f8a59d-8000-48ec-99c2-530247546b1f" />
 <img width="802" height="601" alt="image" src="https://github.com/user-attachments/assets/4005faa9-8231-475a-a153-04f45857387e" />
 
+<img width="768" height="1024" alt="WhatsApp Image 2026-08-13 at 12 46 29 PM" src="https://github.com/user-attachments/assets/7e61e4e0-bae4-49ab-b17c-738980929ea6" />
+https://github.com/user-attachments/assets/582eb45c-a093-4306-8a8f-120d23ab803b
+
+
