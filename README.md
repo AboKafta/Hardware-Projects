@@ -76,3 +76,7 @@ Total Costs —> 46$ ($13 for PCB, $33 for parts)
 Below are results of the outcome. The LEDs were working while soldering, but stopped working. At first, I thought the LEDs were taking too much amps so I removed some LEDs, but it still wasn’t working. I put my multimeter to measure amps and the lights were lighting up when I was testing leads. However, 2 lights weren’t lighting up. This was because their legs were touching together. After fixing that, all the lights started lighting up and it was all working. I then reordered LEDs but burnt one pad off while reinstalling 
 
 
+
+https://github.com/user-attachments/assets/f94614ca-ea78-433b-8afd-7a24a165e5f3
+
+<img width="768" height="1024" alt="WhatsApp Image 2026-08-13 at 12 36 59 PM" src="https://github.com/user-attachments/assets/2624e316-6ef2-4524-898f-2dc1758f98d4" />
