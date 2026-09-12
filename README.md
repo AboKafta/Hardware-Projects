@@ -17,7 +17,7 @@ I then moved onto layout and wiring. First of all, I got the JLCPCB rules set fr
 
 I did 2 ground pours total, one on the rectangular body and one on the circular part. There were no pours on the neck of the build though so the heat from the nano and other components don’t transfer down to the temperature sensor. This increases the accuracies of our readings. One trace needs to connect across the grounds together from the temperature sensor.
 
-After wiring, I validated it and got no errors. Gerber files were also generated and put into the GitHub. I decided not to continue to fabricate with JLCPCB due to money and time issues.
+After wiring, I validated it and got no errors. Gerber files were also generated and put into the GitHub.
 
 <img width="255" height="377" alt="image (20)" src="https://github.com/user-attachments/assets/a7f2236c-ff5a-4a62-a295-d32cf8c5a1b9" />
 
