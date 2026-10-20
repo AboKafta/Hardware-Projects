@@ -27,17 +27,6 @@ Third obstacle was that the game was too easy. People were throwing the frog to 
 
 Fourth obstacle was the laser cutting. I went to FYELIC first and the holes were way too big. This is because the units in AutoCAD were inches and not cm so we had to fix that. You can see in the appendix this mistake. Plus, I laser cut the board for a big LED but we had to switch back to a small LED for power reasons. 
 
-**Team Dynamics:**
-
-The team dynamics were all over the place. Nathaly would take forever to respond to the group chat and would leave us with no response until the day before the project was due. I also asked her to add a reset button since it wasn’t my job as the programming person. However, she said she could so it after December 2nd, but it was due on the 2nd?! So it left me to do her job again, but it took less than 5 minutes. Overall, she needed to communicate better, and maybe she could have tried to section the wires or whatever when implementing it into the build so I didn’t have to rewire everything.
-
-Alex did what was tasked but never did anything else; he was always on his phone during team meetings, not proposing any ideas or solutions. And during milestone three and four in class, he was mostly on his phone in class.
-
-On the brighter side, Arabella was super helpful and kept the team on track. She sent messages reminding us of deadlines and always responded in an adequate time. She helped when she could and contributed a bunch to any problems that arose.  Also, she collaborated and helped with most construction. She made the project 10x prettier and created custom stickers. It felt like all the project planning and ideas were left up to me and her, and we were the only ones who tweaked and worked on the game during milestone 4 (the others didn’t respond to the group chat).
-
-**What Team Executed Well, What They Had Fun With, Type of Players that Enjoyed:**
-
-I feel like we did good on finishing the project for milestone 3, seeing as a lot of projects weren’t done. Many people had fun with the overall game and all types of players enjoyed it. They loved the cute frogs that were made and the overall aesthetics of the game. A lot of competitive people seemed to enjoy the game. This is because the game looked easier than it actually was for milestone 4, so we had people wanting to go like 5 times in a row before they finally won.
 
 **Marketing:**
 
