@@ -20,12 +20,6 @@ My engineering work, split into personal projects and school projects, each in i
 | [MP3 Player](Personal/Embedded/MP3-Player) | Arduino | MP3 player firmware with a wiring diagram |
 | [Prosthetic Hand](Personal/Embedded/ProstheticHand) (unfinished) | Arduino | Prototype firmware driving motors from sensor input |
 
-### Websites
-
-| Project | Tools | Description |
-|---|---|---|
-| [Personal Website](Personal/Websites/Personal-Website) | | Coming soon |
-
 ## School Projects
 
 | Project | Course | Tools | Description |
@@ -46,7 +40,6 @@ My engineering work, split into personal projects and school projects, each in i
 - **MicroPython:** open the `.py` files in Thonny and run them on a Raspberry Pi Pico.
 - **Python:** run `RPGFightingGame.py` with Python 3.
 - **MATLAB:** open `ML3FINAL.mlapp` in App Designer.
-- **Websites:** open `index.html` in a browser.
 
 Where included, Gerber files for fabrication are in a `.zip` inside the project folder.
 
