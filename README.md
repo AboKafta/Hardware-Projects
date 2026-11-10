@@ -1,24 +1,33 @@
 # Hardware Projects
 
-PCB designs, embedded firmware, school projects, and websites from my engineering work, each in its own folder.
+My engineering work, split into personal projects and school projects, each in its own folder.
 
-## PCB
+## Personal Projects
 
-| Project | Tool | Description |
-|---|---|---|
-| [RP2350 Dev Board](PCB/RP2350-Dev-Board) | KiCad | Custom development board for the RP2350 microcontroller, with bring-up and GPIO test firmware |
-| [Room Temperature Monitor](PCB/Room-Temperature-Monitor) | Altium | Temperature monitor circuit from an Arduino beginner's guidebook, redesigned as a custom PCB with an Arduino Nano in place of the Uno |
-| [Piano](PCB/Piano) | KiCad | Arduino Nano-based piano board with a piezo speaker |
-| [Blinking Heart](PCB/BlinkingHeart) | KiCad | Battery-powered blinking LED heart board |
-
-## Embedded
+### PCB
 
 | Project | Tool | Description |
 |---|---|---|
-| [MP3 Player](Embedded/MP3-Player) | Arduino | MP3 player firmware with a wiring diagram |
-| [Prosthetic Hand](Embedded/ProstheticHand) (unfinished) | Arduino | Prototype firmware driving motors from sensor input |
+| [RP2350 Dev Board](Personal/PCB/RP2350-Dev-Board) | KiCad | Custom development board for the RP2350 microcontroller, with bring-up and GPIO test firmware |
+| [Room Temperature Monitor](Personal/PCB/Room-Temperature-Monitor) | Altium | Temperature monitor circuit from an Arduino beginner's guidebook, redesigned as a custom PCB with an Arduino Nano in place of the Uno |
+| [Piano](Personal/PCB/Piano) | KiCad | Arduino Nano-based piano board with a piezo speaker |
+| [Blinking Heart](Personal/PCB/BlinkingHeart) | KiCad | Battery-powered blinking LED heart board |
 
-## School
+### Embedded
+
+| Project | Tool | Description |
+|---|---|---|
+| [MP3 Player](Personal/Embedded/MP3-Player) | Arduino | MP3 player firmware with a wiring diagram |
+| [Prosthetic Hand](Personal/Embedded/ProstheticHand) (unfinished) | Arduino | Prototype firmware driving motors from sensor input |
+
+### Websites
+
+| Project | Tools | Description |
+|---|---|---|
+| [Personal Website](Personal/Websites/Personal-Website) | | Coming soon |
+| [One Year Anniversary](Personal/Websites/One-Year-Anniversary) | HTML | Single-page website |
+
+## School Projects
 
 | Project | Course | Tools | Description |
 |---|---|---|---|
@@ -28,13 +37,6 @@ PCB designs, embedded firmware, school projects, and websites from my engineerin
 | [Secrets of the Phoenicians](School/Secrets-of-the-Phoenicians) | Cornerstone of Engineering 2 | MATLAB App Designer | Puzzle adventure game set in ancient Phoenicia, using switches, a dropdown, and buttons, with three endings |
 | [RPG Fighting Game](School/RPG-Fighting-Game) | Cornerstone of Engineering 1 | Python | Turn-based boss fight with attack, capture, and befriend options, built around a class |
 | [Classic Circuit Calculator](https://github.com/brodienewhouse/Classic-Circuit-Calculator) (in progress) | Computing Fundamentals for Engineers | C++ | Team project: calculates current, resistance, voltage, and power for simple series and parallel resistor circuits, with a touch-display frontend. Hosted in a teammate's repo |
-
-## Websites
-
-| Project | Tools | Description |
-|---|---|---|
-| [Personal Website](Websites/Personal-Website) | | Coming soon |
-| [One Year Anniversary](Websites/One-Year-Anniversary) | HTML | Single-page website |
 
 ## Opening the files
 
