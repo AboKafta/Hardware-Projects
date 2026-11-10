@@ -29,7 +29,7 @@ PCB designs, CAD models, embedded firmware, software, and websites from my engin
 
 | Project | Tool | Description |
 |---|---|---|
-| [Frog Launcher](Software/Frog-Launcher) | Python | Python code for the Frog Launcher project |
+| [Frog Launcher](Software/Frog-Launcher) | Python | Arcade game where you launch frogs onto lily pads to reach a target score |
 
 ## Websites
 
