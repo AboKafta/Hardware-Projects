@@ -1,0 +1,5 @@
+(sym_lib_table
+	(version 7)
+	(lib (name "rp2350a-qfn60") (type "KiCad") (uri "C:/Users/georg/OneDrive/KiCAD/RP2350/SymbolFilesRP2350/rp2350a-qfn60.kicad_sym") (options "") (descr ""))
+	(lib (name "UJ20-C-H-G-SMT-5-P16-TR") (type "KiCad") (uri "C:/Users/georg/OneDrive/KiCAD/RP2350/SymbolFilesRP2350/UJ20-C-H-G-SMT-5-P16-TR.kicad_sym") (options "") (descr ""))
+)
