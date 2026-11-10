@@ -25,7 +25,6 @@ My engineering work, split into personal projects and school projects, each in i
 | Project | Tools | Description |
 |---|---|---|
 | [Personal Website](Personal/Websites/Personal-Website) | | Coming soon |
-| [One Year Anniversary](Personal/Websites/One-Year-Anniversary) | HTML | Single-page website |
 
 ## School Projects
 
