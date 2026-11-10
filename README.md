@@ -30,7 +30,7 @@ PCB designs, CAD models, embedded firmware, and websites from my engineering pro
 | Project | Tools | Description |
 |---|---|---|
 | [Personal Website](Websites/Personal-Website) | | Coming soon |
-| [Petal](Websites/Petal) | HTML | Single-page website |
+| [One Year Anniversary](Websites/One-Year-Anniversary) | HTML | Single-page website |
 
 ## Opening the files
 
