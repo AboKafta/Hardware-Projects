@@ -44,3 +44,7 @@ PCB designs, CAD models, embedded firmware, and websites from my engineering pro
 - **Websites:** open `index.html` in a browser.
 
 Where included, Gerber files for fabrication are in a `.zip` inside the project folder.
+
+## AI assistance
+
+Most of the firmware in this repo was developed with coding assistance from Claude, Anthropic's AI assistant.
