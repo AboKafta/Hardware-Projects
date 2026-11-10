@@ -1,0 +1,15 @@
+# KiCad
+*.kicad_prl
+*.lck
+*.bak
+fp-info-cache
+\#auto_saved_files#
+_autosave-*
+*-backups/
+*.dsn
+*.dsn
+# Altium
+History/
+__Previews/
+# SolidWorks temp files
+~$*
