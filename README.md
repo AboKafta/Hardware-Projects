@@ -1,6 +1,6 @@
 # Hardware Projects
 
-PCB designs, CAD models, embedded firmware, and websites from my engineering projects, each in its own folder.
+PCB designs, CAD models, embedded firmware, software, and websites from my engineering projects, each in its own folder.
 
 ## PCB
 
@@ -25,6 +25,12 @@ PCB designs, CAD models, embedded firmware, and websites from my engineering pro
 | [Escape Room Watch](Embedded/Escape-Room-Watch) | Arduino | Prototype and milestone firmware for an escape room watch |
 | [Prosthetic Hand](Embedded/ProstheticHand) (unfinished) | Arduino | Prototype firmware driving motors from sensor input |
 
+## Software
+
+| Project | Tool | Description |
+|---|---|---|
+| [Frog Launcher](Software/Frog-Launcher) | Python | Python code for the Frog Launcher project |
+
 ## Websites
 
 | Project | Tools | Description |
@@ -38,6 +44,7 @@ PCB designs, CAD models, embedded firmware, and websites from my engineering pro
 - **Altium:** open `TempMonitor.PrjPcb` in Altium Designer.
 - **SolidWorks:** open `Rached_Assembly1.SLDASM`, keeping all part files in the same folder.
 - **Firmware:** open the `.ino` files in the Arduino IDE.
+- **Python:** run `FrogLauncher.py` with Python.
 - **Websites:** open `index.html` in a browser.
 
 Where included, Gerber files for fabrication are in a `.zip` inside the project folder.
