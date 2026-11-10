@@ -1,6 +1,6 @@
 # Hardware Projects
 
-PCB designs, CAD models, embedded firmware, software, and websites from my engineering projects, each in its own folder.
+PCB designs, CAD models, embedded firmware, and websites from my engineering projects, each in its own folder.
 
 ## PCB
 
@@ -24,12 +24,8 @@ PCB designs, CAD models, embedded firmware, software, and websites from my engin
 | [MP3 Player](Embedded/MP3-Player) | Arduino | MP3 player firmware with a wiring diagram |
 | [Escape Room Watch](Embedded/Escape-Room-Watch) | Arduino | Prototype and milestone firmware for an escape room watch |
 | [Prosthetic Hand](Embedded/ProstheticHand) (unfinished) | Arduino | Prototype firmware driving motors from sensor input |
+| [Frog Launcher](Embedded/Frog-Launcher) | Python | Arcade game where you launch frogs onto lily pads to reach a target score |
 
-## Software
-
-| Project | Tool | Description |
-|---|---|---|
-| [Frog Launcher](Software/Frog-Launcher) | Python | Arcade game where you launch frogs onto lily pads to reach a target score |
 
 ## Websites
 
