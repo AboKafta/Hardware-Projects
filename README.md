@@ -29,7 +29,8 @@ PCB designs, CAD models, embedded firmware, and websites from my engineering pro
 
 | Project | Tools | Description |
 |---|---|---|
-| [Personal Website](Websites/Personal-Website) | HTML, CSS, JavaScript | My portfolio site, with project write-ups, photos, and my resume |
+| [Personal Website](Websites/Personal-Website) | | Coming soon |
+| [Petal](Websites/Petal) | HTML | Single-page website |
 
 ## Opening the files
 
