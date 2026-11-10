@@ -1,6 +1,6 @@
 # Hardware Projects
 
-PCB designs, CAD models, embedded firmware, and websites from my engineering projects, each in its own folder.
+PCB designs, embedded firmware, school projects, and websites from my engineering work, each in its own folder.
 
 ## PCB
 
@@ -11,20 +11,23 @@ PCB designs, CAD models, embedded firmware, and websites from my engineering pro
 | [Piano](PCB/Piano) | KiCad | Arduino Nano-based piano board with a piezo speaker |
 | [Blinking Heart](PCB/BlinkingHeart) | KiCad | Battery-powered blinking LED heart board |
 
-## CAD
-
-| Project | Tool | Description |
-|---|---|---|
-| [Chessboard](CAD/Chessboard) | SolidWorks | Chess board and full set of pieces modeled as parts and an assembly, with a final report |
-
 ## Embedded
 
 | Project | Tool | Description |
 |---|---|---|
-| [Escape Room Watch](Embedded/Escape-Room-Watch) | Arduino, SolidWorks | Team project: a space-themed escape room puzzle. An Arduino Nano plays three songs on a buzzer, and guessing all three with the buttons shows a lock code on an OLED. I built the electronics and wrote the firmware; my teammates designed and 3D-printed the watch and transmitter (models in `CAD`) |
-| [Frog Launcher](Embedded/Frog-Launcher) | MicroPython | Team project: an arcade machine where players launch frogs onto lily pads worth 1 to 3 points and avoid alligators worth -1. I wrote all the code for the Raspberry Pi Pico, built the LCD scoreboard, and rewired the circuit |
 | [MP3 Player](Embedded/MP3-Player) | Arduino | MP3 player firmware with a wiring diagram |
 | [Prosthetic Hand](Embedded/ProstheticHand) (unfinished) | Arduino | Prototype firmware driving motors from sensor input |
+
+## School
+
+| Project | Course | Tools | Description |
+|---|---|---|---|
+| [Escape Room Watch](School/Escape-Room-Watch) | Cornerstone of Engineering 2 | Arduino, SolidWorks | Team project: a space-themed escape room puzzle. An Arduino Nano plays three songs on a buzzer, and guessing all three with the buttons shows a lock code on an OLED. I built the electronics and wrote the firmware; my teammates designed and 3D-printed the watch and transmitter (models in `CAD`) |
+| [Frog Launcher](School/Frog-Launcher) | Cornerstone of Engineering 1 | MicroPython | Team project: an arcade machine where players launch frogs onto lily pads worth 1 to 3 points and avoid alligators worth -1. I wrote all the code for the Raspberry Pi Pico, built the LCD scoreboard, and rewired the circuit |
+| [Chessboard](School/Chessboard) | Cornerstone of Engineering 2 | SolidWorks | Kingdom Hearts-themed chess set: the board and every piece modeled as parts and an assembly, with a final report |
+| [Secrets of the Phoenicians](School/Secrets-of-the-Phoenicians) | Cornerstone of Engineering 2 | MATLAB App Designer | Puzzle adventure game set in ancient Phoenicia, using switches, a dropdown, and buttons, with three endings |
+| [RPG Fighting Game](School/RPG-Fighting-Game) | Cornerstone of Engineering 1 | Python | Turn-based boss fight with attack, capture, and befriend options, built around a class |
+| [Classic Circuit Calculator](https://github.com/brodienewhouse/Classic-Circuit-Calculator) (in progress) | Computing Fundamentals for Engineers | C++ | Team project: calculates current, resistance, voltage, and power for simple series and parallel resistor circuits, with a touch-display frontend. Hosted in a teammate's repo |
 
 ## Websites
 
@@ -40,6 +43,8 @@ PCB designs, CAD models, embedded firmware, and websites from my engineering pro
 - **SolidWorks:** open the `.SLDASM` assembly file, keeping its part files in the same folder. Chessboard has a PDF report for viewing without SolidWorks.
 - **Arduino:** open the `.ino` files in the Arduino IDE.
 - **MicroPython:** open the `.py` files in Thonny and run them on a Raspberry Pi Pico.
+- **Python:** run `RPGFightingGame.py` with Python 3.
+- **MATLAB:** open `ML3FINAL.mlapp` in App Designer.
 - **Websites:** open `index.html` in a browser.
 
 Where included, Gerber files for fabrication are in a `.zip` inside the project folder.
