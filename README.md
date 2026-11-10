@@ -9,7 +9,7 @@ My engineering work, split into personal projects and school projects, each in i
 | Project | Tool | Description |
 |---|---|---|
 | [RP2350 Dev Board](Personal/PCB/RP2350-Dev-Board) | KiCad | Custom development board for the RP2350 microcontroller, with bring-up and GPIO test firmware |
-| [Room Temperature Monitor](Personal/PCB/Room-Temperature-Monitor) | Altium | Temperature monitor circuit from an Arduino beginner's guidebook, redesigned as a custom PCB with an Arduino Nano in place of the Uno |
+| [Room Temperature Monitor](Personal/PCB/Room-Temperature-Monitor) | Altium | Room temperature monitor on a custom PCB built around an Arduino Nano |
 | [Piano](Personal/PCB/Piano) | KiCad | Arduino Nano-based piano board with a piezo speaker |
 | [Blinking Heart](Personal/PCB/BlinkingHeart) | KiCad | Battery-powered blinking LED heart board |
 
